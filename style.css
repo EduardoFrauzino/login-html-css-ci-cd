@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margin-top: 50px;
-    font-size: 1em;
+    margin-top: 55px;
+    font-size: 1.2em;
 }
 
 form {
     display: inline-block;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 10px;
+    padding: 30;
+    border: 2px solid #ccccccb0;
+    border-radius: 20px;
     background-color: #f9f9f9;
 }
