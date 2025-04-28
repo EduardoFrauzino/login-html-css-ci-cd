@@ -19,3 +19,4 @@ test('soma de 100 + 200 é 300', () => {
 test('soma de 1.5 + 1.5 é 3', () => {
   expect(soma(1.5, 1.5)).toBe(3);
 });
+// Teste de comentário para PR
